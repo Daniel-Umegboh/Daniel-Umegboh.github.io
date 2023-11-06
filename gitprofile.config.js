@@ -130,7 +130,6 @@ const config = {
       'synthwave',
       'retro',
       'cyberpunk',
-      'valentine',
       'halloween',
       'garden',
       'forest',
