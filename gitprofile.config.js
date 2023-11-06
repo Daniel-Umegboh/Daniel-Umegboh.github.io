@@ -11,15 +11,15 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'Daniel Umegboh',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     facebook: '',
-    instagram: '',
+    instagram: 'daniel.u__',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: '',
     dev: 'danielu',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
