@@ -13,18 +13,18 @@ const config = {
   social: {
     linkedin: 'Daniel Umegboh',
     twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     facebook: '',
     instagram: 'daniel.u__',
-    youtube: '', // example: 'pewdiepie'
+    youtube: ''
     dribbble: '',
     behance: '',
     medium: '',
     dev: 'danielu',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    stackoverflow: ''
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
     email: 'dumegboh@gmail.com',
   },
@@ -39,7 +39,7 @@ const config = {
    'HTML',
   'Java'
   ],
-  experiences: [
+  /*experiences: [
     {
       company: 'Company Name',
       position: 'Position',
@@ -53,7 +53,7 @@ const config = {
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
-    },
+    },*/
   ],
   /* certifications: [
     {
@@ -77,10 +77,10 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Pomodoro Timer',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'A timer to help with productivity',
+      imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fvivaldi.com%2Fblog%2Fpomodoro-timer-in-browser%2F&psig=AOvVaw01HDSdgGzg66YRvxfQaEPc&ust=1699379176383000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOClo_P2r4IDFQAAAAAdAAAAABAE',
       link: 'https://example.com',
     },
     {
