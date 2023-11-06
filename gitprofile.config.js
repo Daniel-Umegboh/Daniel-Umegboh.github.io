@@ -21,7 +21,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'danielu',
-    stackoverflow: ''
+    stackoverflow: 'Daniel'
     skype: '',
     telegram: '',
     website: '',
