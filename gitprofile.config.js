@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'Daniel Umegboh',
-    twitter: 'arif_szn',
+    twitter: '',
     mastodon: '',
     facebook: '',
     instagram: 'daniel.u__',
@@ -30,7 +30,8 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      //'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',  Empty fileUrl will hide the `Download Resume` button.
+    'https://docs.google.com/document/d/1VfpXU9JtvI1QTOaRb-_yQCrNGLcPKwtvR4Z3BeqIhFI/edit?usp=sharing',
   },
   skills: [
     'JavaScript',
