@@ -1,3 +1,4 @@
+
 // gitprofile.config.js
 
 const config = {
