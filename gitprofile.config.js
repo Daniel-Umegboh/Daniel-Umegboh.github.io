@@ -22,7 +22,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'danielu',
-    stackoverflow: 'Daniel'
+    stackoverflow: 'Daniel',
     skype: '',
     telegram: '',
     website: '',
@@ -39,7 +39,7 @@ const config = {
      'Git',
     'CSS',
    'HTML',
-  'Java'
+  'Java',
   ],
   /*experiences: [
     {
