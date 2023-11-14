@@ -17,7 +17,7 @@ const config = {
     mastodon: '',
     facebook: '',
     instagram: 'daniel.u__',
-    youtube: ''
+    youtube: '',
     dribbble: '',
     behance: '',
     medium: '',
