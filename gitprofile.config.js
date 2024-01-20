@@ -56,7 +56,7 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
       to: 'August 2021',
       companyLink: 'https://example.com',
     },
-  ],
+  //],
    certifications: [
     {
       name: 'Lorem ipsum',
