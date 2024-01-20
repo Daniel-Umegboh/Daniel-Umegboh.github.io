@@ -41,7 +41,7 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
    'HTML',
   'Java',
   ],
-  /*experiences: [
+  experiences: [
     {
       company: 'Company Name',
       position: 'Position',
@@ -55,16 +55,16 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
-    },*/
+    },
   ],
-  /* certifications: [
+   certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Head Royce School',
