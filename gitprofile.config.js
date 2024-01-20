@@ -1,4 +1,3 @@
-
 // gitprofile.config.js
 
 const config = {
@@ -8,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -20,7 +19,7 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
     youtube: '',
     dribbble: '',
     behance: '',
-    medium: 'Danielu',
+    medium: '',
     dev: 'danielu',
     stackoverflow: 'Daniel',
     skype: '',
@@ -32,15 +31,9 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
   resume: {
     fileUrl:
       //'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',  Empty fileUrl will hide the `Download Resume` button.
-    'https://docs.google.com/document/d/1VfpXU9JtvI1QTOaRb-_yQCrNGLcPKwtvR4Z3BeqIhFI/edit?usp=sharing',
+      'https://docs.google.com/document/d/1VfpXU9JtvI1QTOaRb-_yQCrNGLcPKwtvR4Z3BeqIhFI/edit?usp=sharing',
   },
-  skills: [
-    'JavaScript',
-     'Git',
-    'CSS',
-   'HTML',
-  'Java',
-  ],
+  skills: ['JavaScript', 'Git', 'CSS', 'HTML', 'Java'],
   experiences: [
     {
       company: 'Company Name',
@@ -56,15 +49,15 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
       to: 'August 2021',
       companyLink: 'https://example.com',
     },
-  //],
-   certifications: [
+  ],
+  certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
-      link: 'https://example.com'
+      link: 'https://example.com',
     },
-  ], 
+  ],
   education: [
     {
       institution: 'Head Royce School',
@@ -72,17 +65,15 @@ projects: [], // These projects will not be displayed. example: ['my-project1', 
       from: '2021',
       to: '2025',
     },
-    
-    
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
       title: 'Pomodoro Timer',
-      description:
-        'A timer to help with productivity',
-      imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fvivaldi.com%2Fblog%2Fpomodoro-timer-in-browser%2F&psig=AOvVaw01HDSdgGzg66YRvxfQaEPc&ust=1699379176383000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOClo_P2r4IDFQAAAAAdAAAAABAE',
+      description: 'A timer to help with productivity',
+      imageUrl:
+        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fvivaldi.com%2Fblog%2Fpomodoro-timer-in-browser%2F&psig=AOvVaw01HDSdgGzg66YRvxfQaEPc&ust=1699379176383000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOClo_P2r4IDFQAAAAAdAAAAABAE',
       link: 'https://example.com',
     },
     {
