@@ -64,6 +64,11 @@ const config = {
       degree: 'High School ',
       from: '2021',
       to: '2025',
+
+      institution: 'Cal Poly Pomona',
+      degree: 'Bachelor's Degree ',
+      from: '2025',
+      to: '2029',
     },
   ],
 
