@@ -66,7 +66,7 @@ const config = {
       to: '2025',
 
       institution: 'Cal Poly Pomona',
-      degree: 'Bachelor's Degree ',
+      degree: 'Bachelor ',
       from: '2025',
       to: '2029',
     },
